@@ -3,4 +3,4 @@ include:
   - 4-科技创新引领新质生产力发展——海淀实践.html
   # 若有其他 HTML 文件也想这样配置，继续添加
 # 配置页面路径映射（可选，想美化路径时用）
-permalink: /
+permalink: /:title/
